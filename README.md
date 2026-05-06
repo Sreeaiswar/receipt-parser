@@ -48,7 +48,7 @@ Built as part of the Handa Uncle engineering take-home assignment.
 ## 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Sreeaiswar/receipt-parser.git
 cd receipt-parser
 ```
 
@@ -78,23 +78,8 @@ npm install
 
 ---
 
-## 3. Environment Variables
 
-Create:
-
-```txt
-server/.env
-```
-
-An example file is included:
-
-```txt
-server/.env.example
-```
-
----
-
-## 4. Run the Application
+## 3. Run the Application
 
 From the project root:
 
