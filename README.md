@@ -112,7 +112,7 @@ I built a small full-stack receipt parsing application where users can upload a 
 
 # Biggest Tradeoffs and Why
 
-## 1. Chose Gemini 1.5 Flash for parsing
+## 1. Choose Gemini 1.5 Flash for parsing
 
 I selected Gemini 1.5 Flash because it provided a good balance between speed, image understanding, and cost. Since the assignment was focused more on product workflow and iteration speed, I prioritized a lightweight model that could handle receipt extraction reliably without adding unnecessary complexity.
 
